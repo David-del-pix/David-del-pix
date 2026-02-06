@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm David
 
-<!--
-**David-del-pix/David-del-pix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer | Daily LeetCode Challenger  
+🎓 BE ECE | Aspiring Full-Stack Developer  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- Passionate about writing clean and simple Java code
+- Solving LeetCode problems daily and sharing solutions
+- Creating beginner-friendly Java programs
+- Interested in Full-Stack Development & Software Engineering
+
+---
+
+## 🛠 Skills & Tools
+- Java
+- Data Structures & Algorithms
+- OOP Concepts
+- Git & GitHub
+- HTML, CSS (learning)
+
+---
+
+## 📌 Featured Repositories
+- 📘 **LeetCode-Java-Solutions** – Daily problem solving
+- 🧮 **Java-Beginner-Programs** – Calculator, Sum, Matrix & more
+- 🚀 More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+⭐ If you find my repositories helpful, please star them  
+🤝 Follow me to track my daily coding journey
